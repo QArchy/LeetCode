@@ -1,6 +1,6 @@
-#include <iostream>
+#include "Challenges/TwoSum/TwoSum.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Solution::main();
     return 0;
 }
